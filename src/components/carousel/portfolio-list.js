@@ -1,4 +1,7 @@
 import portfolio1 from "../../assets/images/portfolio-img.png";
+import portfolio2 from "../../assets/images/portfolio-hongqi.png";
+import portfolio3 from "../../assets/images/portfolio-jetour.png";
+import portfolio4 from "../../assets/images/portfolio-dongfeng.png";
 
 export const portfolioList = [
   {
@@ -8,19 +11,19 @@ export const portfolioList = [
     link: "https://bestuneuzbekistan.uz/"
   },
   {
-    img: portfolio1,
+    img: portfolio2,
     title: "Hongqi",
     text: "Car Brend",
     link: "https://hongqiuzbekistan.uz/"
   },
   {
-    img: portfolio1,
+    img: portfolio3,
     title: "Jetour",
     text: "Car Brend",
     link: "https://jetour-uzbekistan.uz/"
   },
   {
-    img: portfolio1,
+    img: portfolio4,
     title: "Dongfeng",
     text: "Car Brend",
     link: "https://dongfenguzbekistan.uz/"

@@ -5,7 +5,7 @@ export const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Kivistudio</title>
+        <title>Kivi Studio</title>
         <meta
           name="description"
           content="Kivi provides the best customer servise Internet development services in Tashkent , Uzbekistan and World Wide"
