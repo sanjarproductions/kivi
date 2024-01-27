@@ -53,7 +53,8 @@ export const Carousel = memo(() => {
                     backgroundImage: `url(${texts.img})`,
                   }}
                 >
-                  <a className="corousel__link" href="https://bestuneuzbekistan.uz/"></a>
+                  {/* <a className="corousel__link" href="#!"></a> */}
+                  <a className="corousel__link" href={texts.link}></a>
                 </div>
               </div>
 

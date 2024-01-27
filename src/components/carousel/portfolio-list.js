@@ -1,21 +1,29 @@
 import portfolio1 from "../../assets/images/portfolio-img.png";
-import portfolio2 from "../../assets/images/portfolio-img2.png";
-import portfolio3 from "../../assets/images/portfolio-img3.png";
 
 export const portfolioList = [
   {
     img: portfolio1,
     title: "Bestune",
-    text: "Production corporate website landing page",
+    text: "Chinese Luxury Car Company",
+    link: "https://bestuneuzbekistan.uz/"
   },
   {
-    img: portfolio2,
-    title: "Kivi",
-    text: "Production corporate website landing page",
+    img: portfolio1,
+    title: "Hongqi",
+    text: "Car Brend",
+    link: "https://hongqiuzbekistan.uz/"
   },
   {
-    img: portfolio3,
-    title: "TTP",
-    text: "Production corporate website landing page",
+    img: portfolio1,
+    title: "Jetour",
+    text: "Car Brend",
+    link: "https://jetour-uzbekistan.uz/"
   },
+  {
+    img: portfolio1,
+    title: "Dongfeng",
+    text: "Car Brend",
+    link: "https://dongfenguzbekistan.uz/"
+  },
+  
 ];
