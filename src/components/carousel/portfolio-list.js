@@ -13,19 +13,19 @@ export const portfolioList = [
   {
     img: portfolio2,
     title: "Hongqi",
-    text: "Car Brend",
+    text: "Car Brand",
     link: "https://hongqiuzbekistan.uz/"
   },
   {
     img: portfolio3,
     title: "Jetour",
-    text: "Car Brend",
+    text: "Car Brand",
     link: "https://jetour-uzbekistan.uz/"
   },
   {
     img: portfolio4,
     title: "Dongfeng",
-    text: "Car Brend",
+    text: "Car Brand",
     link: "https://dongfenguzbekistan.uz/"
   },
   
